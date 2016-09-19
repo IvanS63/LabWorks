@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<artists>
+    <artist id="12345" name="AC/DC">
+        <album id="1" title="Highway to Hell" genre="ROCK">
+            <song id="1" title="Highway to Hell" duration="328"/>
+            <song id="3" title="Get It Hot" duration="511"/>
+            <song id="2" title="Touch Too Much" duration="420"/>
+            <song id="4" title="Shot Down in Flames" duration="345"/>
+        </album>
+        <album id="2" title="Back in Black" genre="ROCK">
+            <song id="7" title="You Shook Me All Night Long" duration="521"/>
+            <song id="5" title="Shoot to Thrill" duration="517"/>
+            <song id="8" title="Have a Drink on Me" duration="256"/>
+            <song id="6" title="Back in Black" duration="343"/>
+        </album>
+    </artist>
+    <artist id="2435" name="Rammstein">
+        <album id="3" title="Sonne" genre="INDUSTRIAL_METAL">
+            <song id="12" title="Los" duration="404"/>
+            <song id="9" title="Reise, Reise" duration="332"/>
+            <song id="11" title="Amerika" duration="501"/>
+            <song id="10" title="Keine Lust" duration="321"/>
+        </album>
+    </artist>
+</artists>

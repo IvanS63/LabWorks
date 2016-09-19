@@ -1,0 +1,17 @@
+Artist: 12345; AC/DC
+	Album: Highway to Hell; ROCK
+		Song: Touch Too Much; 420
+		Song: Shot Down in Flames; 345
+		Song: Highway to Hell; 328
+		Song: Get It Hot; 511
+	Album: Back in Black; ROCK
+		Song: Shoot to Thrill; 517
+		Song: Have a Drink on Me; 256
+		Song: Back in Black; 343
+		Song: You Shook Me All Night Long; 521
+Artist: 2435; Rammstein
+	Album: Sonne; INDUSTRIAL_METAL
+		Song: Keine Lust; 321
+		Song: Amerika; 501
+		Song: Reise, Reise; 332
+		Song: Los; 404

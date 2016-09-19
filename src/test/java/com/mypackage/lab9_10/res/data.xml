@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<artists>
+    <artist id="1" name="newName"/>
+    <artist id="1" name="newName"/>
+    <artist id="11" name="artistToBeRemoved"/>
+    <artist id="2435" name="Rammstein">
+        <album id="0" title="Sonne" genre="INDUSTRIAL_METAL">
+            <song id="0" title="Los" duration="404"/>
+            <song id="0" title="Reise, Reise" duration="332"/>
+            <song id="0" title="Amerika" duration="501"/>
+            <song id="0" title="Keine Lust" duration="321"/>
+        </album>
+    </artist>
+</artists>
